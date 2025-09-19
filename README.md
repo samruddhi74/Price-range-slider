@@ -1,1 +1,1 @@
-"# Price-range-slider" 
+# Price-range-slider 
